@@ -1,0 +1,74 @@
+body {
+  background-color: #0D192B;
+  color: white;
+  font-family: 'Outfit', sans-serif;
+}
+
+.main-box {
+  background-color: #14253D;
+  height: 550px;
+  width: 330px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.crystal-image {
+  height: 330px;
+  width: 330px;
+  padding: 20px;
+  border-radius: 10%;
+}
+
+.header {
+  margin-left: 20px;
+
+  font-weight: 900;
+
+
+}
+
+.description {
+  margin-left: 20px;
+  color: #8BACDA;
+}
+
+.row {
+  margin-left: 10px;
+}
+
+.footer {
+  margin-left: 20px;
+}
+
+.days {
+  text-align: right;
+  padding-right: 40px;
+  color: #8BACDA;
+  font-size: 13.5px;
+}
+
+hr {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-image{
+  margin-right: 17px;
+  border: 1.5px solid #fff;
+  border-radius: 100px;
+}
+
+.eth{
+  color: #00FFF7;
+  font-size: 13.5px;
+}
+
+.creation{
+  color: #8BACDA;
+}
